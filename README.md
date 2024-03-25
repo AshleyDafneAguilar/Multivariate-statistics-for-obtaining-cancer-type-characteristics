@@ -1,6 +1,6 @@
 <h1 align="center">Multivariate-statistics-for-obtaining-cancer-type-characteristics</h1>
 
-<center><![img1](./img/CANCER.png)></center>
+<center>![img1](./img/CANCER.png)</center>
 
 ## Author 
 - [Ashley Dafne Aguilar Salinas - UNAM ENES Morelia](https://github.com/AshleyDafneAguilar)
