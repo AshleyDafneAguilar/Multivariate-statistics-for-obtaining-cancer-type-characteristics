@@ -6,10 +6,9 @@
 
 ## Introduction 
 Cancer is a disease in which some cells in the body multiply uncontrollably and spread to other parts of the body.
-Sometimes the process does not follow this order and abnormal or damaged cells form and multiply when they shouldn't. These cells may form tumors, which are lumps of tissue. Tumors are either cancerous (malignant) or noncancerous (benign) [National Cancer Institute n.d.](https://www.cancer.gov/espanol/cancer/naturaleza/que-es)
-
+Sometimes the process does not follow this order and abnormal or damaged cells form and multiply when they shouldn't. These cells may form tumors, which are lumps of tissue. Tumors are either cancerous (malignant) or noncancerous (benign) [National Cancer Institute](https://www.cancer.gov/espanol/cancer/naturaleza/que-es)[n.d.]
 Malignant masses often spread or invade nearby tissues, and may also spread to other parts of the body through the blood and lymphatic system. 
-Whereas benign masses sometimes grow very large but do not spread and also do not invade nearby tissues or other parts of the body [NCI n.d.]
+Whereas benign masses sometimes grow very large but do not spread and also do not invade nearby tissues or other parts of the body [NCI[n.d.]]
 
 
 The following work aims to perform a statistical analysis of the data set called [Cancer Data.](https://www.kaggle.com/datasets/erdemtaha/cancer-data?rvi=1)
