@@ -16,6 +16,12 @@ Whereas benign masses sometimes grow very large but do not spread and also do no
 The following work aims to perform a statistical analysis of the data set called [Cancer Data.](https://www.kaggle.com/datasets/erdemtaha/cancer-data?rvi=1)
 The techniques to be applied to perform the analysis will be multiple linear regression (MLRA), principal component analysis (PCA), factor analysis (FA) and cluster analysis. In addition, the necessary preprocessing for data cleaning will be carried out.
 
+## Conclusions
+We saw how dimensionality reduction minimizes the costs of machine learning in KMeans and allows the resolution of complex problems with simple models by visualizing the data in 2D dimension graphs. 
+This technique allows to reduce the model training time, but it also has some drawbacks such as the loss of some data.
+
+As for our results, we can see that we obtained good models.
+This is due to the value of the model evaluation metrics or the amount of variance explained by the new principal components or factors.
 
 ## References
 - [n. d.]. Diccionario de cáncer del NCI. https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/tumor
