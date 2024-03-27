@@ -506,7 +506,7 @@ fa_varimax = factor_analyzer.FactorAnalyzer()
 fa_varimax.set_params(n_factors = 4, rotation = 'Varimax')
 fa_varimax.fit(df_af)
 
-factores_varimax = pd.DataFrame(fa_varimax.loadings_, columns = ['F1','F2', 'F3'], index = df_af.columns)
+factores_varimax = pd.DataFrame(fa_varimax.loadings_[:, :3], columns = ['F1','F2', 'F3'], index = df_af.columns)
 factores_varimax
 
 """## 4. Análisis de conglomerados
