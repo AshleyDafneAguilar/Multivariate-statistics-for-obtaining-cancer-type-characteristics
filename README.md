@@ -19,7 +19,8 @@ The techniques to be applied to perform the analysis will be multiple linear reg
 ## Conclusions
 We saw how dimensionality reduction minimizes the costs of machine learning in KMeans and allows the resolution of complex problems with simple models by visualizing the data in 2D dimension graphs. 
 ![img2](./img/clusters_kmeans_PCA.png)
-*Note that 0 refers to Malignant Cancer, while 1 is Benign Cancer.*
+
+- *Note that 0 refers to Malignant Cancer, while 1 is Benign Cancer.*
 
 This technique allows to reduce the model training time, but it also has some drawbacks such as the loss of some data.
 
