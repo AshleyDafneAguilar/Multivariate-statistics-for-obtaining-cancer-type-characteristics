@@ -18,11 +18,17 @@ The techniques to be applied to perform the analysis will be multiple linear reg
 
 ## Conclusions
 We saw how dimensionality reduction minimizes the costs of machine learning in KMeans and allows the resolution of complex problems with simple models by visualizing the data in 2D dimension graphs. 
+![img2](./img/clusters_kmeans_PCA.png)
+*Note that 0 refers to Malignant Cancer, while 1 is Benign Cancer.*
+
 This technique allows to reduce the model training time, but it also has some drawbacks such as the loss of some data.
 
-As for our results, we can see that we obtained good models.
-This is due to the value of the model evaluation metrics or the amount of variance explained by the new principal components or factors.
+As for our results, we can see that we obtained good models.This is due to the value of the model evaluation metrics or the amount of variance explained by the new principal components or factors.
 
+![img3](./img/confusionmatrix_clusters.png)
+
+
+**Note:**
 *The bar charts, scatter plots, heat maps, confusion matrices, etc. from this project are located in the img folder. 
 The file report.pdf contains a summary of the work done.*
 
