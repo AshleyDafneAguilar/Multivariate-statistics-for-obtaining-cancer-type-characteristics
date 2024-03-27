@@ -23,6 +23,9 @@ This technique allows to reduce the model training time, but it also has some dr
 As for our results, we can see that we obtained good models.
 This is due to the value of the model evaluation metrics or the amount of variance explained by the new principal components or factors.
 
+- The bar charts, scatter plots, heat maps, confusion matrices, etc. from this project are located in the img folder. 
+- The file report.pdf contains a summary of the work done.
+
 ## References
 - [n. d.]. Diccionario de cáncer del NCI. https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/tumor
 - Instituto Nacional de Cáncer. [n. d.]. ¿Qué es el cáncer? https://www.cancer.gov/espanol/cancer/naturaleza/que-es
